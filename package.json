@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodejs": "^0.0.0"
   },
@@ -13,7 +14,6 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jjenniyun/nodejs_react_project.git"
