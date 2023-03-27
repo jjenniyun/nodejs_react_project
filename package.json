@@ -12,5 +12,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjenniyun/nodejs_react_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jjenniyun/nodejs_react_project/issues"
+  },
+  "homepage": "https://github.com/jjenniyun/nodejs_react_project#readme"
 }
